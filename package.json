@@ -1,0 +1,14 @@
+{
+  "name": "qiwi-adblocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YsikiShokurin <Ysiki.Shokurin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3",
+    "typescript": "^5.3.3"
+  }
+}
